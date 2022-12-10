@@ -4,10 +4,13 @@ Aplikasi yang umumnya digunakan untuk mengelola tugas sehari-hari user atau memb
 
 ## Fitur Aplikasi
 Aplikasi ini akan memiliki beberapa sistem, yaitu:
-1. Page Sign Up & Log in
-<img src="https://github.com/raflihadiana/java-project/blob/main/app-ui/Login%20Page.png" width="350" height="200" /> <img src="https://github.com/raflihadiana/java-project/blob/main/app-ui/SignUp%20Page.png" width="350" height="200" />
+1. Page Log in
+<img src="https://github.com/raflihadiana/java-project/blob/main/app-ui/Login%20Page.png" width="350" height="200" /> 
 
-2. Page Add New Task
+2. Page Sign Up
+<img src="https://github.com/raflihadiana/java-project/blob/main/app-ui/SignUp%20Page.png" width="350" height="200" />
+
+3. Page Add New Task
 <img src="https://github.com/raflihadiana/java-project/blob/main/app-ui/Add%20Task.png" width="350" height="200" />
 
 3. Page Add, Edit, Delete, dan Sorting Task
