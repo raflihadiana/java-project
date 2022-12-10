@@ -16,4 +16,13 @@ Aplikasi ini akan memiliki beberapa sistem, yaitu:
 3. Page Add New Task
 <img src="https://github.com/raflihadiana/java-project/blob/main/app-ui/Add%20Task.png" width="350" height="200" />
 
-3. Page Add, Edit, Delete, dan Sorting Task
+4. Page Add, Edit, Delete, dan Sorting Task
+<img src="https://github.com/raflihadiana/java-project/blob/main/app-ui/Edit%20Task.png" width="350" height="200" />
+
+## Database View 
+1. User Database
+| Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11 | #12 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
+
+2. Task Database
