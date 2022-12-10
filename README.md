@@ -20,9 +20,9 @@ Berikut adalah contoh data yang akan muncul dari input user di dalam page task M
 
 | taskid | userid | tanggal & waktu | deskripsi | task |
 | :---: | :---: | :---: | :---: | :---: | 
-| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
-| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
-| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
+| 1 | 2 | 2022-12-17 09:21:27 | bersama teman | mengerjakan tugas |
+| 2 | 2 | 2022-12-18 11:25:21 | di kantin cowo | beli makan | 
+| 1 | 3 | 2022-12-18 10:30:05 | harga 20k | beli baju | 289 | 
 
 ## Fitur Aplikasi
 Aplikasi ini akan memiliki beberapa sistem, yaitu:
