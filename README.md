@@ -8,5 +8,6 @@ Aplikasi ini akan memiliki beberapa sistem, yaitu:
 <img src="https://github.com/raflihadiana/java-project/blob/main/app-ui/Login%20Page.png" width="350" height="200" />
 
 2. Page Add New Task
-![alt text](https://github.com/raflihadiana/java-project/blob/main/app-ui/Add%20Task.png)
+<img src="https://github.com/raflihadiana/java-project/blob/main/app-ui/Add%20Task.png" width="350" height="200" />
+
 3. Page Add, Edit, Delete, dan Sorting Task
