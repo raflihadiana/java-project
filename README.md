@@ -5,6 +5,25 @@ Aplikasi yang umumnya digunakan untuk mengelola tugas sehari-hari user atau memb
 ## Development Env
 JavaFX - MySQL - IntelliJ IDEA
 
+## Database View 
+1. User Database
+Berikut adalah contoh data yang akan muncul dari input user di dalam page user MySQL:
+
+| userid | nama depan | nama belakang | password | lokasi | jenis kelamin |
+| :---: | :---: | :---: | :---: | :---: | :---: | 
+| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
+| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
+| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
+
+2. Task Database
+Berikut adalah contoh data yang akan muncul dari input user di dalam page task MySQL:
+
+| taskid | userid | tanggal & waktu | deskripsi | task |
+| :---: | :---: | :---: | :---: | :---: | 
+| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
+| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
+| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
+
 ## Fitur Aplikasi
 Aplikasi ini akan memiliki beberapa sistem, yaitu:
 1. Page Log in
@@ -19,14 +38,3 @@ Aplikasi ini akan memiliki beberapa sistem, yaitu:
 4. Page Add, Edit, Delete, dan Sorting Task
 <img src="https://github.com/raflihadiana/java-project/blob/main/app-ui/Edit%20Task.png" width="350" height="200" />
 
-## Database View 
-1. User Database
-Berikut adalah contoh data yang akan muncul dari input user di dalam MySQL:
-
-| userid | nama depan | nama belakang | password | lokasi | jenis kelamin |
-| :---: | :---: | :---: | :---: | :---: | :---: | 
-| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
-| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
-| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
-
-2. Task Database
