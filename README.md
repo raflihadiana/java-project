@@ -11,9 +11,9 @@ Berikut adalah contoh data yang akan muncul dari input user di dalam page user M
 
 | userid | nama depan | nama belakang | password | lokasi | jenis kelamin |
 | :---: | :---: | :---: | :---: | :---: | :---: | 
-| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
-| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
-| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
+| 1 | Rafli | Hadiana | 290tugas | Bandung | Laki-Laki | 
+| 2 | Naufal | Rizieq | 245java | Bekasi | Laki-Laki | 
+| 3 | Sofvi | Aprillani | 264besar | Bogot | Perempuan | 
 
 2. Task Database
 Berikut adalah contoh data yang akan muncul dari input user di dalam page task MySQL:
