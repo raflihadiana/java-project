@@ -5,7 +5,10 @@ Aplikasi yang umumnya digunakan untuk mengelola tugas sehari-hari user atau memb
 ## Development Env
 JavaFX - MySQL - IntelliJ IDEA
 
-## Database View 
+## Database Structure
+
+Database project ini dibuat dengan sifat Relational Database untuk menjaga data integrity, sehingga dari dua database yang dibuat yaitu user dan task database, nantinya akan saling terhubung. Hal itu dikarenakan adanya Foreign Key (FK) pada userid table, yang mana data userid pada user database akan sama dengan data userid pada task database.       
+
 1. User Database
 Berikut adalah contoh data yang akan muncul dari input user di dalam page user MySQL:
 
