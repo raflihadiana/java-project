@@ -1,0 +1,37 @@
+====22/12/22====
+HARI PERTAMA BELAJAR SECTION 20
+PART 1 (Login Screen)
+Pembahasan : Menu Login + Logo Button (Play, Pause, dsb).
+
+PART 2 (Add Item Screen)
+Pembahasan : Menu Login sudah terconnect dengan codingan (Menit 6 detik 10) dan Menu Add Item
+Jfoenix? Lambda? File --> FXML?
+Lambda : Dikenal dengan anonymous function yaitu fungsi yang tidak memiliki nama. Berfungsi sebagai jalan pintas (shortcut) untuk membuat fungsi sederhana dan dapat dideklarasikan pada tempat dimana sebuah function object dibutuhkan.
+
+Jfoenix : Pustaka yang digunakan pada aplikasi SceneBuilder untuk menghubungkan efek yang digunakan User Interface di SceneBuider
+
+file FXML : Berisi kode yang ditulis dalam bahasa pemrograman FXML yang dikembangkan oleh Oracle Corporation; digunakan untuk membuat antarmuka pengguna aplikasi JavaFX 2.0; berdasarkan XML yang menggunakan ekstensi file .XML.
+
+PART 3 (Sign Up Screen)
+Pembahasan : Menu Sign Up
+
+PART 4 (Database Structure)
+Pembahasan : Pada database membutuhkan 2 tabel, dimana tabel pertama berisi ttg Users (P1: Fname, Lname, Usrnme, Pass, Location, & Gender. P2: .. . P3:... dst)  dan tabel kedua berisi Tasks.
+
+Users table = Parent Class
+Tasks table = Child Class
+
+PART 5 (Creating Database and Tables)
+Pembahasan : Membahas tahapan membuat tabel menggunakan SQL Workbench
+
+SQL Workbench?
+MySQL Workbench adalah perangkat lunak yang berguna sebagai administratif dari database MySQL atau lebih dikenal sebagai GUI dari MySQL. Sebagian besar pengguna dari MySQL menggunakan phpMyAdmin sebagai GUInya, karena kemudahan penggunaannya. Namun, MySQL Workbench sendiri memiliki kelebihan karena merupakan GUI yang bersifat visual.
+
+PART 6 (Database Handler Class Setup)
+Pembahasan : Membahas tentang Database Handler dan Running program Login & SignUp
+
+Database Handler Class adalah membuat setup koneksi ke Database menggunakan function (.getConnection). Selain itu dia juga bakalan update task, delete task, dsb. Awal2 bikin establish Connection ke Database.
+
+Fungsi trim() merupakan salah satu metode pada kelas tipe data string dalam pemrograman JAVA. Fungsi dari metode trim() ditujukan untuk menghilangkan atau menghapus karakter spasi yang ada di awal dan diakhir kalimat atau tipe data string.
+
+DatabaseHandler --> Membuat Method Login (IntelIJ) --> Buat usernme dan password coding --> SignUp --> Kalo daftar, nanti masuk ke Database yang sudah dibuat berdasarkan tabel.
